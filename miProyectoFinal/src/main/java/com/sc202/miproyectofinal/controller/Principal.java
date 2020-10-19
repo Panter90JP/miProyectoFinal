@@ -10,7 +10,7 @@ package com.sc202.miproyectofinal.controller;
  * @author juanp
  */
 public class Principal {
-
+ // Cambio de prueba
     public static void main(String[] args) {
         // TODO code application logic here
     }
